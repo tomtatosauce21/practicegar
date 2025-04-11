@@ -1,0 +1,13 @@
+C:\Users\Yves\source\repos\AppdevFinals\AppdevFinals\bin\Debug\AppdevFinals.exe.config
+C:\Users\Yves\source\repos\AppdevFinals\AppdevFinals\bin\Debug\AppdevFinals.exe
+C:\Users\Yves\source\repos\AppdevFinals\AppdevFinals\bin\Debug\AppdevFinals.pdb
+C:\Users\Yves\source\repos\AppdevFinals\AppdevFinals\bin\Debug\System.Data.OleDb.dll
+C:\Users\Yves\source\repos\AppdevFinals\AppdevFinals\bin\Debug\System.Data.OleDb.xml
+C:\Users\Yves\source\repos\AppdevFinals\AppdevFinals\obj\Debug\AppdevFinals.csproj.AssemblyReference.cache
+C:\Users\Yves\source\repos\AppdevFinals\AppdevFinals\obj\Debug\AppdevFinals.Form1.resources
+C:\Users\Yves\source\repos\AppdevFinals\AppdevFinals\obj\Debug\AppdevFinals.Properties.Resources.resources
+C:\Users\Yves\source\repos\AppdevFinals\AppdevFinals\obj\Debug\AppdevFinals.csproj.GenerateResource.cache
+C:\Users\Yves\source\repos\AppdevFinals\AppdevFinals\obj\Debug\AppdevFinals.csproj.CoreCompileInputs.cache
+C:\Users\Yves\source\repos\AppdevFinals\AppdevFinals\obj\Debug\AppdevFi.9C7BDDDB.Up2Date
+C:\Users\Yves\source\repos\AppdevFinals\AppdevFinals\obj\Debug\AppdevFinals.exe
+C:\Users\Yves\source\repos\AppdevFinals\AppdevFinals\obj\Debug\AppdevFinals.pdb
